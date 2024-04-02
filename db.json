@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "caneta azul"
+    },
+    {
+      "id": "2",
+      "name": "satã"
+    },
+    {
+      "id": "3",
+      "name": "daibo",
+      "price": 12
+    }
+  ],
+  "customer": [
+    {
+      "id": "1",
+      "name": "Djabo"
+    }
+  ]
+}
